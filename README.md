@@ -6,9 +6,8 @@ acceptance criteria to real checks against your implementation, and get a
 verification report that names what is proven, what failed, and what is merely
 hoped for.
 
-Companion demo for the article: **The Spec Is the New Unit of Work: Spec-Driven
-Development for Teams Running AI Agents** — *(link added after publish — see
-the commit history if this placeholder is still here)*.
+Companion demo for the article: [**The Spec Is the New Unit of Work: Spec-Driven
+Development for Teams Running AI Agents**](https://medium.com/@er.rajatlakhina/the-spec-is-the-new-unit-of-work-spec-driven-development-for-teams-running-ai-agents-015f15f9bf0e).
 
 ![SpecGateKit flow: SPEC.md is parsed into a typed FeatureSpec, evaluated by an AcceptanceGate against executable checks, producing a VerificationReport with passed/failed/unverified states](article-assets/spec-gate-flow.png)
 
